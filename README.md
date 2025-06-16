@@ -1,2 +1,2 @@
-# QCP
+# Quality Project
 Quality Control Project
