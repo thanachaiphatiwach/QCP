@@ -1,0 +1,3 @@
+This project focuses specifically on the CNC machining operation that establishes the final Bore_Diameter_mm for cylinder blocks. 
+
+It does not encompass prior or subsequent operations unless they are identified as root causes.
